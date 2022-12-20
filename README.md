@@ -2,7 +2,7 @@
 - 🐤 birb learning to fly
 - [My Portfolio](https://abhik002.github.io/)
 - Occupation: B.Tech CSE Student
-- Favourite: Desktop Software Development using Python
+- Hobby: Desktop Software Development using Python
 - Interests: Web Design and Graphic Design
 - Favourite Personal Projects:
   - [Tasky](https://github.com/AbhiK002/Tasky#readme)   
