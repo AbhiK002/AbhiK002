@@ -2,8 +2,8 @@
 - 🐤 birb learning to fly
 - [My Portfolio](https://abhik002.github.io/)
 - B.Tech CSE Student
-- Hobby: Desktop Software Development using Python
-- Interests: Web Design and Graphic Design
+- I like desktop software and web development
+- I'm currently improving my full stack web dev skills
 - Favourite Personal Projects:
   - <a href='https://github.com/AbhiK002/Tasky#readme'> <image src='https://user-images.githubusercontent.com/68178267/210785831-2c94a984-9eb5-40ed-901a-e0425d964216.png' height=20> Tasky </a>
   - <a href='https://github.com/AbhiK002/blappy-fird#readme'> <image src='https://user-images.githubusercontent.com/68178267/236674506-59f01fa5-6f53-4667-936b-3f5cbad0499e.png' height=20> Blappy Fird </a>
