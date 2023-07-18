@@ -7,8 +7,8 @@
   - Vanilla Web Dev, MERN
   - tkinter, JavaFX, PyQt5
 - Favourite Personal Projects:
-  - <a href='https://github.com/AbhiK002/Tasky#readme'> <image src='https://user-images.githubusercontent.com/68178267/210785831-2c94a984-9eb5-40ed-901a-e0425d964216.png' height=20> Tasky (Desktop App - PyQt5) </a>
-  - <a href='https://abhik002.github.io/gismos/'> <image src='https://github.com/AbhiK002/gismos/assets/68178267/9e770b63-25e6-4fa4-98a4-afad714e2f9e' height=20> Gismos (MERN web app)  </a>
-  - <a href='https://abhik002.github.io/call-them/'> <image src='https://github.com/AbhiK002/call-them/assets/68178267/4b3db567-a211-461e-91a1-b7defb54f3b9' height=20> CallThem (MERN web app) </a>
-  - <a href='https://github.com/AbhiK002/blappy-fird#readme'> <image src='https://user-images.githubusercontent.com/68178267/236674506-59f01fa5-6f53-4667-936b-3f5cbad0499e.png' height=20> Blappy Fird (Desktop Game - tkinter) </a>
+  - <a href='https://github.com/AbhiK002/Tasky#readme'> <image src='https://user-images.githubusercontent.com/68178267/210785831-2c94a984-9eb5-40ed-901a-e0425d964216.png' height=20> Tasky --- Desktop App, PyQt5 </a>  
+  - <a href='https://abhik002.github.io/gismos/'> <image src='https://github-production-user-asset-6210df.s3.amazonaws.com/68178267/254356897-9e770b63-25e6-4fa4-98a4-afad714e2f9e.png' height=20> Gismos --- Web App, MERN  </a>  
+  - <a href='https://abhik002.github.io/call-them/'> <image src='https://github-production-user-asset-6210df.s3.amazonaws.com/68178267/254357265-4b3db567-a211-461e-91a1-b7defb54f3b9.svg' height=20> CallThem --- Web App, MERN </a>  
+  - <a href='https://github.com/AbhiK002/blappy-fird#readme'> <image src='https://user-images.githubusercontent.com/68178267/236674506-59f01fa5-6f53-4667-936b-3f5cbad0499e.png' height=20> Blappy Fird --- Desktop Game, tkinter </a>
 - 🐤 birb learning to fly
