@@ -1,10 +1,14 @@
 ### About Me
-- 🐤 birb learning to fly
 - [My Portfolio](https://abhik002.github.io/)
-- B.Tech CSE Student
-- I like desktop software and web development
-- I'm currently improving my full stack web dev skills
+- Computer Science Student from India
+- Learning & Practicing MERN Full-Stack Web Development
+- Really enjoy Desktop Application Development
+- Technologies I'm good at:
+  - Vanilla Web Dev, MERN
+  - tkinter, JavaFX, PyQt5
 - Favourite Personal Projects:
-  - <a href='https://github.com/AbhiK002/Tasky#readme'> <image src='https://user-images.githubusercontent.com/68178267/210785831-2c94a984-9eb5-40ed-901a-e0425d964216.png' height=20> Tasky </a>
-  - <a href='https://github.com/AbhiK002/blappy-fird#readme'> <image src='https://user-images.githubusercontent.com/68178267/236674506-59f01fa5-6f53-4667-936b-3f5cbad0499e.png' height=20> Blappy Fird </a>
-  - <a href='https://github.com/AbhiK002/shard-editor#readme'> <image src='https://user-images.githubusercontent.com/68178267/217315894-94b674ba-8860-4461-96ec-53727bb57ff0.svg' height=20> Shard Text Editor </a>
+  - <a href='https://github.com/AbhiK002/Tasky#readme'> <image src='https://user-images.githubusercontent.com/68178267/210785831-2c94a984-9eb5-40ed-901a-e0425d964216.png' height=20> Tasky (Desktop App - PyQt5) </a>
+  - <a href='https://abhik002.github.io/gismos/'> <image src='https://github.com/AbhiK002/gismos/assets/68178267/9e770b63-25e6-4fa4-98a4-afad714e2f9e' height=20> Gismos (MERN web app)  </a>
+  - <a href='https://abhik002.github.io/call-them/'> <image src='https://github.com/AbhiK002/call-them/assets/68178267/4b3db567-a211-461e-91a1-b7defb54f3b9' height=20> CallThem (MERN web app) </a>
+  - <a href='https://github.com/AbhiK002/blappy-fird#readme'> <image src='https://user-images.githubusercontent.com/68178267/236674506-59f01fa5-6f53-4667-936b-3f5cbad0499e.png' height=20> Blappy Fird (Desktop Game - tkinter) </a>
+- 🐤 birb learning to fly
